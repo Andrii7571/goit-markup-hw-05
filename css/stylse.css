@@ -468,10 +468,10 @@ p {
 .costomers-link {
   display: flex;
   justify-content: center;
+  align-items: center;
   width: 170px;
   height: 92px;
 
-  align-items: center;
   color: #afb1b8;
 
   border-radius: 4px;
